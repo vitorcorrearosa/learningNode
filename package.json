@@ -1,0 +1,22 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "moduleA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorcorrearosa/learningNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorcorrearosa/learningNode/issues"
+  },
+  "homepage": "https://github.com/vitorcorrearosa/learningNode#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
